@@ -26,7 +26,7 @@ CRUD simples da entidade curso:
 | Nome  | Tipo     | Validação       |
 | ----- | -------- | --------------- |
 | img  | `string` | Required        |
-| title | `string` | Required, Regex |
+| title | `string` | Required|
 | price | `number`   | Required        |
 
 
