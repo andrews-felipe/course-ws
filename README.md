@@ -1,6 +1,12 @@
-# Projeto CRUD API Simples Node.js, Restify, Mongoose, Cors-middleware
+# Projeto CRUD API Simples. 
 
 _Este projeto é para fins didáticos e avaliativos_
+
+### Tecnologias Usadas:
+- Node.js 
+- Restify 
+- Mongoose 
+- Cors-middleware
 
 CRUD simples da entidade curso:
 
